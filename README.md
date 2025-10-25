@@ -1,6 +1,10 @@
 # Monte-Carlo-Estimation-of-Pi
 
 This project estimates the value of Pi using a Monte Carlo simulation technique.
+Monte Carlo method is a way to solve problems using randomness. Instead of trying to calculate an exact answer with a formula, the idea is to simulate many random samples and use statistics to estimate the result.
+
+You can think of it like this:
+If a problem is too complex to solve directly, you run a lot of random experiments and see what the average outcome looks like.
 
 ### What is the idea?
 
