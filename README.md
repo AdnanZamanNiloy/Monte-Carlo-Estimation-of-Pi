@@ -32,8 +32,8 @@ For each point (x, y):
 - Otherwise it is outside
 
 Then we count:
--circle_points = number of points inside the circle  
--square_points = total random points generated
+circle_points = number of points inside the circle  
+square_points = total random points generated
 
 Since:
 (circle_points / square_points) is almost Pi / 4
