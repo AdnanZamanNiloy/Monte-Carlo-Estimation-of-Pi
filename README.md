@@ -51,6 +51,6 @@ More random points means more accurate Pi.
 
 | Points  | Estimated π |
 |---------|-------------|
-| 25      | 2.56        |
-| 100     | 3.24        |
-| 10000   | 3.14 ✅      |
+| 25      | 2.88       |
+| 100     | 2.88       |
+| 100000   | 3.14 ✅      |
