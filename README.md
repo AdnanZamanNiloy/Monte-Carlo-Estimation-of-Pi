@@ -47,9 +47,10 @@ Random points spread evenly over time.
 So the fraction of points inside the circle becomes close to the fraction of the areas.
 
 More random points means more accurate Pi.
+### 📊 Example Results
 
-Example results:
-Points | Estimated Pi
-25 | 2.56
-100 | 3.24
-10000 | 3.14
+| Points  | Estimated π |
+|---------|-------------|
+| 25      | 2.56        |
+| 100     | 3.24        |
+| 10000   | 3.14 ✅      |
