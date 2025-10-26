@@ -54,5 +54,8 @@ More random points means more accurate Pi.
 | 25      | 2.88       |
 | 100     | 2.88       |
 | 100000   | 3.14 ✅      |
+
+
+
 ![monte_carlo_pi_estimation_demoanimation](https://github.com/user-attachments/assets/1d672a96-810c-45a8-9718-fe9427e7ae61)
 
